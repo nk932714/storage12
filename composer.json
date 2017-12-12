@@ -1,6 +1,7 @@
 {
     "name": "J05HI/google-drive-direct-remote-upload",
     "require": {
+         "php" : "^5.5 || ^7.0",
         "google/apiclient": "^2.1"
     }
 }
